@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
+author: "Kylan Benson"
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to government spending on education and how it effects educational outcomes in K-12 schools. Being from Birmingham, Alabama, i would like to focus on my own school district if sufficient data can be found.
